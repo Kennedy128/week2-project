@@ -1,0 +1,31 @@
+body{
+    background-color: grey;
+    background-image: url(https://cdn.britannica.com/82/183382-050-D832EC3A/Detail-head-crown-Statue-of-Liberty-New.jpg);
+    background-size: cover;
+    font-family: 'Sriracha', cursive;
+
+
+
+}
+.form-group{
+    text-align: left;
+    font-family: 'Coda Caption', sans-serif;
+
+
+}
+.kenny{
+    margin-top: 10px;
+    margin-bottom: 11px;
+    margin-left: 12px;
+    margin-right: 13px;
+    background-color: teal;
+    padding: 11px;
+    
+
+
+
+
+}
+label{
+    color: black;
+}
